@@ -1,0 +1,19 @@
+loop() {
+
+while (true) {
+
+# read Bluetooth data to variable ble_data
+
+# parse the data stream
+
+if ble_stream contains w, then move forward
+
+if ble_stream contains x, then move left
+
+if ble_stream contains y, then move right
+
+if ble_stream contains z, then move back
+
+}
+
+}
